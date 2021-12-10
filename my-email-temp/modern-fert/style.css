@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 100%;
+    table-layout: fixed;
+    background-color: #cccccc;
+}
+
+.main{
+    display: block;
+    max-width: 600px;
+}
